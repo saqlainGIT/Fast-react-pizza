@@ -24,42 +24,6 @@ A modern and fast pizza ordering web application built with React.
 - **State Management:** Redux Toolkit
 - **Routing:** React Router
 
-## 🔧 Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/saqlainGIT/Fast-react-pizza.git
-   ```
-2. **Navigate to the project folder:**
-   ```bash
-   cd Fast-react-pizza
-   ```
-3. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-4. **Run the development server:**
-   ```bash
-   npm start
-   ```
-5. Open **http://localhost:3000/** in your browser.
-
-## 🛤️ Project Structure
-
-```
-Fast-react-pizza
-│── public/        # Static assets
-│── src/           # Main source code
-│   ├── components/   # Reusable UI components
-│   ├── pages/        # Page components
-│   ├── hooks/        # Custom hooks (if any)
-│   ├── context/      # Context API state management
-│   ├── styles/       # CSS files
-│   ├── App.js        # Main application file
-│   ├── index.js      # React entry point
-│── package.json  # Project dependencies
-│── README.md     # Project documentation
-```
 
 ## 🛍️ Future Enhancements
 
