@@ -67,23 +67,4 @@ Fast-react-pizza
 - 📦 Add a backend for handling orders and payments.
 - 📱 Improve mobile responsiveness.
 
-## 📄 License
 
-This project is **MIT licensed**.
-
----
-
-### **How to Add This README to Your Repo**
-1. **Create a README.md file** in your repo (if not already present):
-   ```bash
-   touch README.md
-   ```
-2. **Copy-paste the content above** into your `README.md` file.
-3. **Commit and push the file**:
-   ```bash
-   git add README.md
-   git commit -m "Added README.md"
-   git push origin main
-   ```
-
-Let me know if you want any modifications! 🚀
