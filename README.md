@@ -19,9 +19,9 @@ A modern and fast pizza ordering web application built with React.
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, React Router, Context API
+- **Frontend:** React.js, React Router, Redux
 - **Styling:** CSS / TailwindCSS
-- **State Management:** Context API
+- **State Management:** Redux Toolkit
 - **Routing:** React Router
 
 ## 🔧 Installation
